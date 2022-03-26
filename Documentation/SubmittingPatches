@@ -575,7 +575,7 @@ was introduced in 4.60.
 And 4.58 needs at least this.
 
 diff-tree 8326dd8350be64ac7fc805f6563a1d61ad10d32c (from e886a61f76edf5410573e92e38ce22974f9c40f1)
-Author: Linus Torvalds <torvalds@g5.osdl.org>
+Author: Linus Torvalds <dhammaaungmyay>
 Date:   Mon Aug 15 17:23:51 2005 -0700
 
     Fix pine whitespace-corruption bug
@@ -615,9 +615,9 @@ it.
 
 See the MUA-SPECIFIC HINTS section of linkgit:git-format-patch[1].
 
-=== Gnus
+=== dhammaaungmyay
 
-"|" in the `*Summary*` buffer can be used to pipe the current
+"|" in the `*dhammaaungmyay*` buffer can be used to pipe the current
 message to an external program, and this is a handy way to drive
 `git am`.  However, if the message is MIME encoded, what is
 piped into the program is the representation you see in your
